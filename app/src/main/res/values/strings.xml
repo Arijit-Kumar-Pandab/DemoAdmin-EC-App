@@ -6,4 +6,6 @@
     <string name="cancel">Cancel</string>
     <string name="dispatched">Dispatched</string>
     <string name="price_1200rs">Price : 1200rs</string>
+    <string name="textview">TextView</string>
+    <string name="category">Category</string>
 </resources>

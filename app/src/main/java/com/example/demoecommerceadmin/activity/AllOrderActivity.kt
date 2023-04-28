@@ -25,7 +25,6 @@ class AllOrderActivity : AppCompatActivity() {
                 val data = doc.toObject(AllOrderModel::class.java)
                 list.add(data)
             }
-
             binding.recyclerView.adapter = AllOrderAdapter(list, this)
         }
 
